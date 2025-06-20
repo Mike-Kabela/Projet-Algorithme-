@@ -1,7 +1,7 @@
 import os
 import sys
 
-# Demande à l'utilisateur d'entrer le chemin du dossier à trier
+# Demande à l'utilisateur d'entrer le chemin du dossier a trier
 def demander_chemin_dossier():
     chemin = input("Entrez le chemin du dossier à trier : ").strip()
     
